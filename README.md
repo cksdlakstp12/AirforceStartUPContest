@@ -1,6 +1,6 @@
 # AirforceStartUPContest
 
-# XRAY ProHibited Object Detector
+## IDEA : XRAY ProHibited Object Detector
 
 ## USED MODEL
 Yolor : appropriate FPS and accuracy
